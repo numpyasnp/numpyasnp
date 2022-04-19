@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @numpyasnp
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React, English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
